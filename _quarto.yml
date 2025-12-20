@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Recettes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  sidebar:
+    contents: auto
+
+format:
+  html:
+    grid:
+      body-width: 1000px
+      margin-width: 250px
+      sidebar-width: 300px
+    theme: 
+      light: flatly
+      # light: [cosmo, theme.scss]
+      dark: darkly
+    css: 
+      - gfont/css/quicksand.css
+
+editor: visual

@@ -1,7 +1,0 @@
----
-title: "Chocolats Pralinés"
-format: html
-editor: visual
----
-
-... du bon chocolat

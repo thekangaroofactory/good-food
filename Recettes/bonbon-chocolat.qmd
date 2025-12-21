@@ -7,7 +7,7 @@ editor: visual
 Liens vers la recette originale :\
 <https://www.meilleurduchef.com/fr/recette/croustillant-praline.html>
 
-## Ingrédients 
+## Ingrédients
 
 -   240g de noisettes
 
@@ -145,7 +145,7 @@ On peut déposer une garniture sur le chocolat avant qu'il ne fige.
 Quantités divisées par 2\
 Uniquement enrobage chocolat noir (avec les mêmes quantités donc pour cette partie)
 
-Test 1 : \
+Test 1 :\
 ça donne 1 moule souple marron + 23 cases de la plaque bleu (5 rang + 3 cases)
 
 Test 2 :\

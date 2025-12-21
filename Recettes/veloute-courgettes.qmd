@@ -1,10 +1,8 @@
 ---
-title: "caviar-aubergine"
+title: "Velouté de courgettes"
 format: html
 editor: visual
 ---
-
-# Velouté de courgettes
 
 ## Ingrédients
 

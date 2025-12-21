@@ -4,8 +4,6 @@ format: html
 editor: visual
 ---
 
-# Pickles d'oignons rouges
-
 Simple, facile et rapide à préparer.\
 A utiliser comme un condiment pour accompagner un plat, une salade, un sandwich.
 

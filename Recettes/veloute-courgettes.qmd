@@ -4,6 +4,9 @@ format: html
 editor: visual
 ---
 
+En entrée ou en verrine.\
+S'accompagne parfaitement bien avec des éclats de charcuterie secs.
+
 ## Ingrédients
 
 -   2 / 3 courgettes bio (on garde la peau)
@@ -16,7 +19,7 @@ editor: visual
 
 -   Epices (poivre, curry)
 
--   Pain de mie (sec ou passer au grille pain pour le secher)
+-   1 tranche de pain de mie blanc (sec ou passer au grille pain pour le secher)
 
 ## Préparation
 
@@ -37,3 +40,15 @@ Ajouter des épices (curry, curcuma).\
 Laisser réduire à feu doux en remuant.
 
 Quand la consistance est bonne, arrêter le feu et laisser refroidir.
+
+Verser l'eau de cuisson des courgettes dans un verre.
+
+Mettre les courgettes aux mixeur, lancer au minimum.\
+Ajouter la crème infusée à l'estragon.\
+Ajouter la mie sèche, ajuster la vistesse du mixeur si besoin (on veut un mouvement)
+
+On peut utiliser l'eau de cuisson pour ajuster la consistance.
+
+## Notes
+
+Je trouve que c'est un peu gras, essayer 40 ml

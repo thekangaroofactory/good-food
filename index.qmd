@@ -1,13 +1,9 @@
 ---
-title: "Untitled"
+title: "Bienvenue"
 format: html
 editor: visual
 ---
 
-## Quarto
+Ce site contient les recettes de cuisine que j'utilise.
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the
+La plupart sont inspirées de recettes trouvées en ligne ou dans des livres, adaptées à mes préférences.
